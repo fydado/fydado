@@ -1,3 +1,7 @@
+| [![Alessandro Salerno](https://img.shields.io/badge/ALESSANDRO-SALERNO-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=Alessandro-Salerno&color=green) | ![Followers](https://img.shields.io/github/followers/Alessandro-Salerno) | ![Stars](https://img.shields.io/github/stars/Alessandro-Salerno?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
+
+
 <h1 align="center">Skills</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/C/C++%20-%23323330.svg?&style=for-the-badge&logo=cplusplus&logoColor=#00599C"/>
@@ -24,11 +28,11 @@
 ---
 
 <h1 align="center">My STATS<h1>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alessandro-Salerno&theme=dark&hide_border=falsehttps://github-readme-streak-stats.herokuapp.com/?user=Alessandro-Salerno&theme=dark&hide_border=false" width="48%">
 
-<a href="https://github.com/Alessandro-Salerno/Alessandro-Salerno">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-Salerno&hide_border=true&theme=radical"/></a>
-<a href="https://github.com/Alessandro-Salerno/Alessandro-Salerno">
-  <img align="center" src="https://github-readme-stats.gyro7.vercel.app/api?username=Alessandro-Salerno&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-Salerno&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%">
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alessandro-Salerno">
+</div>
 
----
