@@ -31,7 +31,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alessandro-Salerno&theme=dark&hide_border=falsehttps://github-readme-streak-stats.herokuapp.com/?user=Alessandro-Salerno&theme=dark&hide_border=false" width="48%">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-Salerno&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-Salerno&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="40%">
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Alessandro-Salerno&theme=onedark">
 </div>
