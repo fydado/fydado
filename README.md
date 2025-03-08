@@ -1,4 +1,4 @@
-| [![Alessandro Salerno](https://img.shields.io/badge/Davide Scarlata-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=Davide Scarlata&color=green) | ![Followers](https://img.shields.io/github/followers/Davide Scarlata) | ![Stars](https://img.shields.io/github/stars/Davide Scarlata?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+| [![Alessandro Salerno](https://img.shields.io/badge/fydado-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=fydado&color=green) | ![Followers](https://img.shields.io/github/followers/fydado) | ![Stars](https://img.shields.io/github/stars/fydado?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
 
@@ -32,10 +32,10 @@
 
 <h1 align="center">My STATS<h1>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davide Scarlata&theme=dark&hide_border=falsehttps://github-readme-streak-stats.herokuapp.com/?user=Davide Scarlata&theme=dark&hide_border=false" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fydado&theme=dark&hide_border=falsehttps://github-readme-streak-stats.herokuapp.com/?user=fydado&theme=dark&hide_border=false" width="48%">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davide Scarlata&theme=dark&layout=compact&include_all_commits=true&count_private=false" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fydado&theme=dark&layout=compact&include_all_commits=true&count_private=false" width="40%">
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Davide Scarlata&theme=onedark">
+  <img src="https://github-profile-trophy.vercel.app/?username=fydado&theme=onedark">
 </div>
 
